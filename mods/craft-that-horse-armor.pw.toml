@@ -1,0 +1,13 @@
+name = "Craft that Horse Armor"
+filename = "craftthathorsearmor-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iDfD6kWx/versions/unEIiKpV/craftthathorsearmor-2.0.0.jar"
+hash-format = "sha1"
+hash = "2be360a525b79ab20508e39f5c051a7c54641843"
+
+[update]
+[update.modrinth]
+mod-id = "iDfD6kWx"
+version = "unEIiKpV"

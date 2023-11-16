@@ -1,0 +1,13 @@
+name = "Realistic Horse Genetics"
+filename = "realistic_horse_genetics-1.20.1-12.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PCskOqPY/versions/YsdksQfp/realistic_horse_genetics-1.20.1-12.0.jar"
+hash-format = "sha1"
+hash = "85fe0069cb1ef58ef9a8fc2edd073b20b7a28a86"
+
+[update]
+[update.modrinth]
+mod-id = "PCskOqPY"
+version = "YsdksQfp"
