@@ -1,6 +1,23 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "234391032a9590ccf8784d0b49e07e0c083dab35db7e5f484db58538247c724c"
+
+[[files]]
+file = "logo.png"
+hash = "c7b74d1786d23b34730b42583960a1dcf289ec169c6a3bb50d3fc6558dba5e6d"
+
+[[files]]
+file = "logo_big.png"
+hash = "d318bffa4845ff85f0faa0b80de6b74ef830ac4e042295f29e858320b7468d5b"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "96f9983d86fa756ca973306fca579288302f26482e2de6b69d4845e24f03ffb6"
+metafile = true
+
+[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "b1d73729ee6e2003075faeac4978a397396c3c33786e656f82c02c6507007f02"
 metafile = true
@@ -369,14 +386,6 @@ metafile = true
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "19bc0f007aa261bc1d9e78a2e2330cdb75e2dbb5c01ad0629bec87e7cbfc9f89"
 metafile = true
-
-[[files]]
-file = "resourcepacks/Ars+Nouveau+Brass-ified+Create-Style+-+ANBICS.zip"
-hash = "8023dcf62a3874e5c76991b324cef1fc6c686332869ddb2aa2babbb7a9a23f25"
-
-[[files]]
-file = "resourcepacks/Lopy-Create-Sophisticated-Backpacks.zip"
-hash = "a6a782f3a471a5ea283638d533ba8a53db7b380c0fcaac8b95154351ebc58589"
 
 [[files]]
 file = "shaderpacks/Sildur's+Vibrant+Shaders+v1.50+Extreme-VL.zip"

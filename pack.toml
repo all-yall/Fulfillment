@@ -1,12 +1,12 @@
 name = "Fulfillment"
 author = "Ally"
-version = "1.0.2"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9d53a9c13b157c4d2dddf160e76bf06d8979401fcf9ff3c66d9bcc97246915ab"
+hash = "2ecd56feba534aa213e2148c9177345971bab949af5eaf6b61eb15af0047f0cd"
 
 [versions]
 forge = "47.1.3"
