@@ -1,16 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "234391032a9590ccf8784d0b49e07e0c083dab35db7e5f484db58538247c724c"
-
-[[files]]
 file = "logo.png"
 hash = "c7b74d1786d23b34730b42583960a1dcf289ec169c6a3bb50d3fc6558dba5e6d"
-
-[[files]]
-file = "logo_big.png"
-hash = "d318bffa4845ff85f0faa0b80de6b74ef830ac4e042295f29e858320b7468d5b"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
