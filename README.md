@@ -8,6 +8,14 @@ This is a small, lightweight modpack that focuses on
 * Terrain Generation
 * Performance
 
+## Installing
+I highly recommend using the [Prism Launcher](https://prismlauncher.org/)
+to run this pack. Once it is installed, download the latest version
+of the pack from the [releases page](https://github.com/all-yall/Fulfillment/releases)
+and import that zip file (note you might have to select *.mrpack
+instead of *.zip files in the file selector in Prism launcher when
+importing the pack). Run the game and enjoy.
+
 ## Mod List
 Here are all the mods (hopefully) by category with a small 
 description of the purpose. Additionally, the lists are 
